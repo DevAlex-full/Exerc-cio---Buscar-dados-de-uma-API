@@ -37,16 +37,6 @@ Este projeto foi desenvolvido como um exercício de integração com APIs, demon
 
 ---
 
-## 🚀 Demonstração
-
-### Desktop
-![LuxeStore Desktop](https://via.placeholder.com/800x400/6366f1/ffffff?text=LuxeStore+Desktop+Preview)
-
-### Mobile
-![LuxeStore Mobile](https://via.placeholder.com/300x600/ec4899/ffffff?text=LuxeStore+Mobile)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 ### Core
